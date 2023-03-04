@@ -1,0 +1,5 @@
+Pedro,180
+Maria,160
+José ,190
+Thiago,168
+Joao,220
